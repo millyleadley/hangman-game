@@ -4,9 +4,9 @@ A game which plays Hangman with the user, accepting the number of characters in 
 
 ### Prerequisites
 
-'''
+```
 Python
-'''
+```
 
 ### Inspiration
 
